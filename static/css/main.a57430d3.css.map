@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a57430d3.css","mappings":"AAAA,EACI,wBAA4B,CCA5B,wBDCJ","sources":["App.css","index.css"],"sourcesContent":["* {\r\n    background-color: lightgreen;\r\n}","* {\n    background-color: lightgrey\n}\n/* @tailwind base;\n@tailwind components;\n@tailwind utilities; */\n\n\n\n"],"names":[],"sourceRoot":""}
